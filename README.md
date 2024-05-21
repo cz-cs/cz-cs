@@ -15,5 +15,5 @@ i have been coding since i was 7. started with arduino and my preferred language
 
 ## some of my work
 [zennfake's website](https://zenfake.com)<br />
-[edgeware](https://discord.gg/edgeware)'s bot, edgeguard
+[edgeware](https://discord.gg/edgeware)'s bot, edgeguard<br />
 dev for [atlas](https://discord.gg/urhARkWWBU)
